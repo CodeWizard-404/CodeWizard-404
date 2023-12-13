@@ -32,14 +32,8 @@
 - 📦 **Other:** UML (Unified Modeling Language), Binary Arithmetic
 
 ## GitHub Stats
-
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=codewizard-404&theme=onedark"
-            alt="codewizard-404" />
-    </a>
-</p>
-    <p>
+   
+<p>
         <img 
             src="https://github-readme-stats.vercel.app/api/top-langs?username=codewizard-404&show_icons=true&locale=en&layout=compact&theme=onedark"
             alt="codewizard-404"
@@ -55,4 +49,9 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewizard-404&theme=onedark"
             alt="codewizard-404" />
     </p>
-
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=codewizard-404&theme=onedark"
+            alt="codewizard-404" />
+    </a>
+</p>

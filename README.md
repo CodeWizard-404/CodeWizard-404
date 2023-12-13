@@ -7,9 +7,8 @@
 
 ## About Me
 
-- 👨‍💻 Hi, I'm Sofyen Laghouanem, a DSI student at ISET Chrguia, aspiring to be a future Software Engineer.
-- 📚 I have a strong foundation in programming and development.
-- 🤖 I also have experience with Arduino for hardware programming.
+- 👨‍💻 Hi, I'm Sofyen Laghouanem, a DSI student at ISET Chrguia (Tunisia), aspiring to be a future Software Engineer.
+- 🤖 I have a strong foundation in programming and development.
 - 💡 I enjoy solving problems using data structures and algorithms.
 
 ## Connect with Me

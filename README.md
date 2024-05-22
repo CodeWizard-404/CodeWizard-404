@@ -24,8 +24,8 @@
 ## Skills
 
 - 💻 **Languages:** Java, PHP, C, HTML, CSS, JavaScript, TypeScript
-- 🛠️ **Frameworks:** Angular, Bootstrap
-- 🗃️ **Databases:** MySQL, Oracle
+- 🛠️ **Frameworks:** Angular, Bootstrap, SpringBoot, Django
+- 🗃️ **Databases:** MySQL, Oracle, SQLight, PostgreSQL
 - 🤖 **Hardware:** Arduino
 - 🧰 **Tools:** Git, Linux, Microsoft Excel
 - 📦 **Other:** UML (Unified Modeling Language), Binary Arithmetic

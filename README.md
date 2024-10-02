@@ -51,9 +51,9 @@ Here's a glimpse of my academic journey, showcasing my university assignments:
 ## 🌟 GitHub Stats
 <p>
         
-<p align="left">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewizard-404&show_icons=true&locale=en&layout=compact&theme=radical" alt="codewizard-404" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTViMW9xYTJpdjNyanU0YzgzZ3YxcXNzdGlhZGVmbDR6Mjd4YzBpayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif" alt="HackerMan" width="172" style="border-radius: 7px; border: 1px solid white;" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTViMW9xYTJpdjNyanU0YzgzZ3YxcXNzdGlhZGVmbDR6Mjd4YzBpayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif" alt="HackerMan" width="175" style="border-radius: 7px; border: 1px solid white;" />
 
 
 </p>

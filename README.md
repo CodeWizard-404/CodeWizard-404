@@ -32,7 +32,7 @@
 ---
 ## **📚 University Experience**
 
-Here's a glimpse of my academic journey, showcasing my university assignments:
+- Here's a glimpse of my academic journey, showcasing my university assignments:
 ---
 ### 🎓 **1st Year IT**
 

@@ -30,19 +30,48 @@
 - 📦 **Other:** UML (Unified Modeling Language), Binary Arithmetic, Algorithmics
 
 ---
-
-## 📚 University Assignments
+## **📚 University Experience**
 
 Here's a glimpse of my academic journey, showcasing my university assignments:
+---
+### 🎓 **1st Year IT**
 
-| Year  | Semester | Subjects                                  |
-|-------|----------|-------------------------------------------|
-| 🎓 1   | S1       | HTML, CSS, C                             |
-|       | S2       | HTML, CSS, JS, Advanced C                |
-| 🎓 2   | S1       | Java, Angular, HTML, CSS, JS, SQL, PHP   |
-|       | S2       | Advanced Java, Spring Boot, Symfony, Django, Python, SGBD |
-| 🎓 3   | S1       | Android, Flutter, SOA, Node.js           |
+### 🗓️ Semester 1
+- **🌐 HTML & CSS**: Built responsive layouts and user-centric designs.
+- **💻 C Programming**: Mastered programming fundamentals and memory management.
 
+### 🗓️ Semester 2
+- **🚀 HTML, CSS & JavaScript**: Integrated interactive elements and dynamic content.
+- **🔍 Advanced C Programming**: Explored advanced data structures and algorithms.
+
+---
+
+### 🌟 **2d Year DSI**
+
+### 🗓️ Semester 1
+- **📈 Advanced Java**: Reviewed basic concepts of Java programming and explored introductory topics.
+- **📱 Angular**: Developed dynamic, scalable web applications.
+- **🔗 HTML, CSS3, JavaScript**: Crafted interactive and visually appealing web pages.
+- **📊 SQL**: Optimized database querying and management.
+- **🛠️ PHP**: Built robust server-side applications.
+
+### 🗓️ Semester 2
+- **🏗️ Java**: Emphasized real-world applications in object-oriented programming.
+- **🏢 Spring Boot**: Designed scalable microservices with RESTful services.
+- **🖥️ Symfony**: Focused on best practices in web development.
+- **🐍 Django**: Rapid development with clean design principles.
+- **📚 Python**: Explored diverse libraries and frameworks.
+- **🗄️ SGBD**: Studied database management systems.
+
+---
+
+### 🎉 **3ed Year DSI**
+
+### 🗓️ Semester 1
+- **📲 Android Development**: Created engaging mobile apps with Java.
+- **⚡ Flutter**: Developed cross-platform apps emphasizing UI consistency.
+- **🔄 SOA**: Enhanced system interoperability and scalability.
+- **🌐 Node.js**: Built efficient server-side applications using event-driven programming.
 
 ---
 

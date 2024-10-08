@@ -14,7 +14,7 @@
 ## 🌐 Connect with Me
 - 📫 Email: [sofienlaghouanem@gmail.com](mailto:sofienlaghouanem@gmail.com)  
 - 🌐 **My Resume**
-    - [TAS-Compatible CV](https://github.com/your-username/your-repo-name/blob/main/TAS-Compatible-CV.pdf)
+    - [TAS-Compatible CV](https://github.com/CodeWizard-404/CodeWizard-404/blob/main/CV_Sofien_Laghouanem.pdf)
     - [Professional CV](https://cvdesignr.com/p/65814c7836e86)
 
 - 📱 Social:

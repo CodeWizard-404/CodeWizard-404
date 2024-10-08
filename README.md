@@ -26,12 +26,17 @@
 
 ---
 ## 🔧 Skills
-- 💻**Languages:** Java, PHP, C, HTML, CSS, JavaScript, TypeScript, Python, Dart 
-- 📱**Mobile Dev:** Android Studio (Java), Flutter (Dart) 
-- 🛠️**Frameworks:** Angular, Bootstrap, Spring Boot, Django, Symfony, Flutter 
-- 🗃️**Databases:** MySQL, Oracle, SQLite, PostgreSQL 
-- 🧰**Tools:** Git, Linux, XAMPP, VMware, Postman, Excel 
-- 📦 **Other:** UML (Unified Modeling Language), Binary Arithmetic, Algorithmics
+-💻 **Programming Languages**: Java, JavaScript, HTML, CSS, TypeScript, PHP, Python, Dart, XML  
+-📱 **Mobile Development**: Android Studio (Java), Flutter (Dart)  
+-🌐 **Web Frameworks & Libraries**: AngularJS, Spring Boot, Django, Symfony, Bootstrap  
+-🗄️ **Database Management**: MySQL, Oracle, PostgreSQL  
+-🧰 **Development Tools**: Git, Linux, XAMPP, VMware, Postman, Microsoft Excel  
+
+-🎨 **Design & Prototyping**: Figma, UI/UX Principles  
+-📚 **Conceptual & Theoretical Knowledge**: UML (Unified Modeling Language), Algorithmics, Binary Arithmetic, Scrum  
+
+-💼 **Soft Skills**: Teamwork & Conflict Resolution, Adaptability & Flexibility, Time Management, Technical Support, Problem Solving  
+
 
 ---
 ## **📚 University Experience**

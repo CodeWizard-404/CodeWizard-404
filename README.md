@@ -15,7 +15,7 @@
 - 📫 Email: [sofienlaghouanem@gmail.com](mailto:sofienlaghouanem@gmail.com)  
 - 🌐 **My Resume**
     - [Professional CV](https://cvdesignr.com/p/65814c7836e86)
-    - [ATS-Compatible CV](https://github.com/CodeWizard-404/CodeWizard-404/blob/main/CV_Sofien_Laghouanem.pdf)
+    - [ATS-Compatible CV](https://github.com/CodeWizard-404/CodeWizard-404/blob/main/CV_Laghouanem_Sofien.pdf)
     
 
 - 📱 Social:

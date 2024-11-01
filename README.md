@@ -125,7 +125,7 @@
    <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=codewizard-404&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4CB9D9&hide_progress=true&text_color=58A6FF&langs_count=20&hide=Less,Tcl,Cython,Cmake,SCSS" 
         alt="Top Languages" 
-        width="180" 
+        width="380" 
     />
     <!-- Animated GIF -->
     <img 

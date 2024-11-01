@@ -41,35 +41,54 @@
 
 ## 🛠️ Projects
 
-### **1. Presidential Elections Platform**  
-**Technologies:** Angular, NodeJS  
-*Developed a secure, real-time online voting platform to streamline election processes, featuring user registration, candidate profiles, and live result tracking.*
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-### **2. UniTrucker**  
-**Technologies:** Angular, Spring Boot  
-*Designed a task management application for university environments, enabling professors to assign tasks, students to track progress, and admins to monitor system performance.*
+### <div style="background: #1E1E2D; border-radius: 10px; padding: 15px; flex: 1 1 calc(33% - 20px);">
+  <h4 style="color: #4CB9D9;">Presidential Elections Platform</h4>
+  <p style="font-weight: bold; color: #A1A1A1;">Technologies: Angular, NodeJS</p>
+  <p>Developed a secure, real-time online voting platform to streamline election processes, featuring user registration, candidate profiles, and live result tracking.</p>
+</div>
 
-### **3. Prépa du Prépa**  
-**Technologies:** Django, Symfony  
-*Built an online resource hub to support engineering students preparing for entrance exams, offering study guides, practice exams, and the latest relevant updates.*
+### <div style="background: #1E1E2D; border-radius: 10px; padding: 15px; flex: 1 1 calc(33% - 20px);">
+  <h4 style="color: #4CB9D9;">UniTrucker</h4>
+  <p style="font-weight: bold; color: #A1A1A1;">Technologies: Angular, Spring Boot</p>
+  <p>Designed a task management application for university environments, enabling professors to assign tasks, students to track progress, and admins to monitor system performance.</p>
+</div>
 
-### **4. 3DEEZ E-commerce Website**  
-**Technologies:** Angular, JSON  
-*Developed an online store for custom 3D-printed products, with features including dynamic previews and an efficient checkout system for enhanced user experience.*
+### <div style="background: #1E1E2D; border-radius: 10px; padding: 15px; flex: 1 1 calc(33% - 20px);">
+  <h4 style="color: #4CB9D9;">Prépa du Prépa</h4>
+  <p style="font-weight: bold; color: #A1A1A1;">Technologies: Django, Symfony</p>
+  <p>Built an online resource hub to support engineering students preparing for entrance exams, offering study guides, practice exams, and the latest relevant updates.</p>
+</div>
 
-### **5. Algohub**  
-**Technologies:** HTML, CSS, JavaScript  
-*Created a learning platform focused on C programming fundamentals, with interactive resources tailored to meet college curriculum standards.*
+### <div style="background: #1E1E2D; border-radius: 10px; padding: 15px; flex: 1 1 calc(33% - 20px);">
+  <h4 style="color: #4CB9D9;">3DEEZ E-commerce Website</h4>
+  <p style="font-weight: bold; color: #A1A1A1;">Technologies: Angular, JSON</p>
+  <p>Developed an online store for custom 3D-printed products, with features including dynamic previews and an efficient checkout system for enhanced user experience.</p>
+</div>
 
-### **6. Personal Portfolio**  
-**Technologies:** HTML, CSS, JavaScript  
-*Built a personal portfolio to showcase projects, skills, and achievements, combining an interactive interface with a user-centric design.*
+### <div style="background: #1E1E2D; border-radius: 10px; padding: 15px; flex: 1 1 calc(33% - 20px);">
+  <h4 style="color: #4CB9D9;">Algohub</h4>
+  <p style="font-weight: bold; color: #A1A1A1;">Technologies: HTML, CSS, JavaScript</p>
+  <p>Created a learning platform focused on C programming fundamentals, with interactive resources tailored to meet college curriculum standards.</p>
+</div>
 
-### **7. Techcamp**  
-**Technologies:** HTML, CSS, JavaScript  
-*Developed a beginner’s guide to IT, highlighting key fields (Frontend, Backend, DevOps) with curated tools and skill recommendations for each area.*
+### <div style="background: #1E1E2D; border-radius: 10px; padding: 15px; flex: 1 1 calc(33% - 20px);">
+  <h4 style="color: #4CB9D9;">Personal Portfolio</h4>
+  <p style="font-weight: bold; color: #A1A1A1;">Technologies: HTML, CSS, JavaScript</p>
+  <p>Built a personal portfolio to showcase projects, skills, and achievements, combining an interactive interface with a user-centric design.</p>
+</div>
+
+### <div style="background: #1E1E2D; border-radius: 10px; padding: 15px; flex: 1 1 calc(33% - 20px);">
+  <h4 style="color: #4CB9D9;">Techcamp</h4>
+  <p style="font-weight: bold; color: #A1A1A1;">Technologies: HTML, CSS, JavaScript</p>
+  <p>Developed a beginner’s guide to IT, highlighting key fields (Frontend, Backend, DevOps) with curated tools and skill recommendations for each area.</p>
+</div>
+
+</div>
 
 ---
+
 
 
 ## **📚 University Experience**

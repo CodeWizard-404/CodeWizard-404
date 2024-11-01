@@ -63,7 +63,7 @@
 ### 📄 Portfolio
 **Technologies:** HTML, CSS, JavaScript  
 *Built a personal portfolio to showcase projects, skills, and achievements, combining an interactive interface with a user-centric design.*
--
+
 ### 📘 Techcamp
 **Technologies:** HTML, CSS, JavaScript  
 *Developed a beginner’s guide to IT, highlighting key fields (Frontend, Backend, DevOps) with curated tools and skill recommendations for each area.*

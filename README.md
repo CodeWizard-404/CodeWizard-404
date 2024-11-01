@@ -118,21 +118,44 @@
 
 
 ## 🌟 GitHub Stats
-<p>
-        
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewizard-404&show_icons=true&locale=en&layout=compact&theme=radical" alt="codewizard-404" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTViMW9xYTJpdjNyanU0YzgzZ3YxcXNzdGlhZGVmbDR6Mjd4YzBpayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif" alt="HackerMan" width="175" style="border-radius: 7px; border: 1px solid white;" />
 
-
-</p>
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=codewizard-404&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewizard-404&theme=radical" alt="Streak Stats" />
-</p>
-<p align="center">
+<div align="center">
+    <!-- Languages -->
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=codewizard-404&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=58A6FF" 
+        alt="Top Languages" 
+        width="400" 
+        style="border-radius: 10px; margin: 10px;" 
+    />
+    <!-- Cool GIF -->
+    <img 
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTViMW9xYTJpdjNyanU0YzgzZ3YxcXNzdGlhZGVmbDR6Mjd4YzBpayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif" 
+        alt="HackerMan" 
+        width="150" 
+        style="border-radius: 10px; margin: 10px;" 
+    />
+    <!-- GitHub Stats -->
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=codewizard-404&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117&text_color=58A6FF" 
+        alt="GitHub Stats" 
+        width="400" 
+        style="border-radius: 10px; margin: 10px;" 
+    />
+    <!-- Streak Stats -->
+    <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=codewizard-404&theme=dark&hide_border=true&background=0D1117&text_color=58A6FF" 
+        alt="Streak Stats" 
+        width="400" 
+        style="border-radius: 10px; margin: 10px;" 
+    />
+    <!-- Trophy Showcase -->
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=codewizard-404&theme=radical"
-            alt="codewizard-404" />
+        <img 
+            src="https://github-profile-trophy.vercel.app/?username=codewizard-404&theme=darkhub&no-frame=true&column=3&margin-w=15&margin-h=15" 
+            alt="Trophy Showcase" 
+            width="400" 
+            style="border-radius: 10px; margin: 10px;" 
+        />
     </a>
-</p>
+</div>
+

@@ -117,49 +117,53 @@
 ---
 
 
-## 🚀 GitHub Profile Overview
+## 🌌 GitHub Insights
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <!-- Header Banner -->
-    <div style="background-color: #1E1E2F; padding: 20px; border-radius: 12px; width: 100%; max-width: 600px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);">
-        <h2 style="color: #4CB9D9; margin: 0;">🌌 GitHub Stats</h2>
-        <p style="color: #B0BEC5; margin: 0;">Showcasing my coding journey and contributions.</p>
-    </div>
-    <!-- Languages Section -->
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=codewizard-404&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" 
+<div align="center">
+
+   <!-- Languages Section -->
+   <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=codewizard-404&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4CB9D9&text_color=58A6FF" 
         alt="Top Languages" 
-        width="100%" 
-        style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" 
+        width="380" 
+        style="border-radius: 12px; margin: 10px; transition: transform 0.3s;" 
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'" 
     />
     <!-- Animated GIF -->
     <img 
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTViMW9xYTJpdjNyanU0YzgzZ3YxcXNzdGlhZGVmbDR6Mjd4YzBpayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif" 
         alt="HackerMan" 
-        width="250" 
-        style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"
+        width="130" 
+        style="border-radius: 12px; margin: 10px; border: 1px solid #4CB9D9; box-shadow: 0 4px 8px rgba(76, 185, 217, 0.2);"
     />
-    <!-- GitHub Stats -->
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=codewizard-404&show_icons=true&locale=en&theme=radical&hide_border=true" 
+   <!-- GitHub Stats -->
+   <img 
+        src="https://github-readme-stats.vercel.app/api?username=codewizard-404&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4CB9D9&text_color=58A6FF" 
         alt="GitHub Stats" 
-        width="100%" 
-        style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" 
+        width="380" 
+        style="border-radius: 12px; margin: 10px; transition: transform 0.3s;" 
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'" 
     />
     <!-- Streak Stats -->
-    <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=codewizard-404&theme=radical&hide_border=true" 
+   <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=codewizard-404&theme=github-dark-blue&hide_border=true&background=0D1117&ring=4CB9D9&fire=FF4500&currStreakLabel=58A6FF" 
         alt="Streak Stats" 
-        width="100%" 
-        style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" 
+        width="380" 
+        style="border-radius: 12px; margin: 10px; transition: transform 0.3s;" 
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'" 
     />
     <!-- Trophy Showcase -->
-    <a href="https://github.com/ryo-ma/github-profile-trophy" style="width: 100%; max-width: 600px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img 
-            src="https://github-profile-trophy.vercel.app/?username=codewizard-404&theme=radical&no-frame=true&column=3&margin-w=15&margin-h=15" 
+            src="https://github-profile-trophy.vercel.app/?username=codewizard-404&theme=darkhub&no-frame=true&column=3&margin-w=15&margin-h=15" 
             alt="Trophy Showcase" 
-            width="100%" 
-            style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"
+            width="180" 
+            style="border-radius: 12px; margin: 10px; transition: transform 0.3s;" 
+            onmouseover="this.style.transform='scale(1.05)'" 
+            onmouseout="this.style.transform='scale(1)'" 
         />
     </a>
 </div>

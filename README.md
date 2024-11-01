@@ -125,13 +125,13 @@
    <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=codewizard-404&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4CB9D9&hide_progress=true&text_color=58A6FF&langs_count=20&hide=Less,Tcl,Cython,Cmake,SCSS" 
         alt="Top Languages" 
-        width="280" 
+        hight="180" 
     />
     <!-- Animated GIF -->
     <img 
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTViMW9xYTJpdjNyanU0YzgzZ3YxcXNzdGlhZGVmbDR6Mjd4YzBpayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif" 
         alt="HackerMan" 
-        width="280" 
+        hight="180" 
         style="border-radius: 12px; margin: 10px; border: 1px solid #4CB9D9; box-shadow: 0 4px 8px rgba(76, 185, 217, 0.2);"
     />
         <!-- GitHub Stats -->

@@ -40,7 +40,7 @@
 ---
 ## 🛠️ Projects
 
-### 🚀 Presidential Elections Platform
+### 🚀 Presidential Elections
 **Technologies:** Angular, NodeJS  
 *Developed a secure, real-time online voting platform to streamline election processes, featuring user registration, candidate profiles, and live result tracking.*
 
@@ -49,10 +49,10 @@
 *Designed a task management application for university environments, enabling professors to assign tasks, students to track progress, and admins to monitor system performance.*
 
 ### 🎓 Prépa du Prépa
-**Technologies:** Django, Symfony  
+**Technologies:** Django / Symfony  
 *Built an online resource hub to support engineering students preparing for entrance exams, offering study guides, practice exams, and the latest relevant updates.*
 
-### 🛒 3DEEZ E-commerce Website
+### 🛒 3DEEZ
 **Technologies:** Angular, JSON  
 *Developed an online store for custom 3D-printed products, with features including dynamic previews and an efficient checkout system for enhanced user experience.*
 
@@ -60,10 +60,10 @@
 **Technologies:** HTML, CSS, JavaScript  
 *Created a learning platform focused on C programming fundamentals, with interactive resources tailored to meet college curriculum standards.*
 
-### 📄 Personal Portfolio
+### 📄 Portfolio
 **Technologies:** HTML, CSS, JavaScript  
 *Built a personal portfolio to showcase projects, skills, and achievements, combining an interactive interface with a user-centric design.*
---
+-
 ### 📘 Techcamp
 **Technologies:** HTML, CSS, JavaScript  
 *Developed a beginner’s guide to IT, highlighting key fields (Frontend, Backend, DevOps) with curated tools and skill recommendations for each area.*

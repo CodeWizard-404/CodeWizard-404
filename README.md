@@ -125,7 +125,7 @@
    <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=codewizard-404&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4CB9D9&text_color=58A6FF" 
         alt="Top Languages" 
-        width="380" 
+        width="280" 
         style="border-radius: 12px; margin: 10px; transition: transform 0.3s;" 
         onmouseover="this.style.transform='scale(1.05)'" 
         onmouseout="this.style.transform='scale(1)'" 

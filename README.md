@@ -38,64 +38,49 @@
 - 💼 **Soft Skills**: Teamwork & Conflict Resolution, Adaptability & Flexibility, Time Management, Technical Support, Problem Solving  
 
 ---
-
 ## 🛠️ Projects
 
-<div align="center">
-    <h3 style="margin-bottom: 20px;">✨ Featured Projects</h3>
-</div>
-
-### 🚀 **1. Presidential Elections Platform**  
+### 🚀 Presidential Elections Platform
 **Technologies:** Angular, NodeJS  
-*Developed a secure, real-time online voting platform to streamline election processes, featuring user registration, candidate profiles, and live result tracking.*  
-![Project 1](https://via.placeholder.com/150) <!-- Replace with actual project image if available -->
+*Developed a secure, real-time online voting platform to streamline election processes, featuring user registration, candidate profiles, and live result tracking.*
 
 ---
 
-### 📚 **2. UniTrucker**  
+### 📚 UniTrucker
 **Technologies:** Angular, Spring Boot  
-*Designed a task management application for university environments, enabling professors to assign tasks, students to track progress, and admins to monitor system performance.*  
-![Project 2](https://via.placeholder.com/150) <!-- Replace with actual project image if available -->
+*Designed a task management application for university environments, enabling professors to assign tasks, students to track progress, and admins to monitor system performance.*
 
 ---
 
-### 🔧 **3. Prépa du Prépa**  
+### 🎓 Prépa du Prépa
 **Technologies:** Django, Symfony  
-*Built an online resource hub to support engineering students preparing for entrance exams, offering study guides, practice exams, and the latest relevant updates.*  
-![Project 3](https://via.placeholder.com/150) <!-- Replace with actual project image if available -->
+*Built an online resource hub to support engineering students preparing for entrance exams, offering study guides, practice exams, and the latest relevant updates.*
 
 ---
 
-### 🛒 **4. 3DEEZ E-commerce Website**  
+### 🛒 3DEEZ E-commerce Website
 **Technologies:** Angular, JSON  
-*Developed an online store for custom 3D-printed products, with features including dynamic previews and an efficient checkout system for enhanced user experience.*  
-![Project 4](https://via.placeholder.com/150) <!-- Replace with actual project image if available -->
+*Developed an online store for custom 3D-printed products, with features including dynamic previews and an efficient checkout system for enhanced user experience.*
 
 ---
 
-### 🌐 **5. Algohub**  
+### 🖥️ Algohub
 **Technologies:** HTML, CSS, JavaScript  
-*Created a learning platform focused on C programming fundamentals, with interactive resources tailored to meet college curriculum standards.*  
-![Project 5](https://via.placeholder.com/150) <!-- Replace with actual project image if available -->
+*Created a learning platform focused on C programming fundamentals, with interactive resources tailored to meet college curriculum standards.*
 
 ---
 
-### 🎨 **6. Personal Portfolio**  
+### 📄 Personal Portfolio
 **Technologies:** HTML, CSS, JavaScript  
-*Built a personal portfolio to showcase projects, skills, and achievements, combining an interactive interface with a user-centric design.*  
-![Project 6](https://via.placeholder.com/150) <!-- Replace with actual project image if available -->
+*Built a personal portfolio to showcase projects, skills, and achievements, combining an interactive interface with a user-centric design.*
 
 ---
 
-### 💡 **7. Techcamp**  
+### 📘 Techcamp
 **Technologies:** HTML, CSS, JavaScript  
-*Developed a beginner’s guide to IT, highlighting key fields (Frontend, Backend, DevOps) with curated tools and skill recommendations for each area.*  
-![Project 7](https://via.placeholder.com/150) <!-- Replace with actual project image if available -->
+*Developed a beginner’s guide to IT, highlighting key fields (Frontend, Backend, DevOps) with curated tools and skill recommendations for each area.*
 
 ---
-
-
-
 
 ## **📚 University Experience**
 

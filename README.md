@@ -158,9 +158,9 @@
     <!-- Trophy Showcase -->
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img 
-            src="https://github-profile-trophy.vercel.app/?username=codewizard-404&theme=darkhub&no-frame=true&column=3&margin-w=15&margin-h=15" 
+            src="https://github-profile-trophy.vercel.app/?username=codewizard-404&theme=darkhub&no-frame=true&column=8&margin-w=15&margin-h=15" 
             alt="Trophy Showcase" 
-            width="180" 
+            width="380" 
             style="border-radius: 12px; margin: 10px; transition: transform 0.3s;" 
             onmouseover="this.style.transform='scale(1.05)'" 
             onmouseout="this.style.transform='scale(1)'" 

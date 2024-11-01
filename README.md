@@ -71,7 +71,6 @@
 
 ---
 
----
 ## **📚 University Experience**
 
 - Here's a glimpse of my academic journey, showcasing my university assignments:

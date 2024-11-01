@@ -121,11 +121,11 @@
 
 <div align="center">
 
-   <!-- Languages Section -->
+<!-- GitHub Stats -->
    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=codewizard-404&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4CB9D9&hide_progress=true&text_color=58A6FF&langs_count=20&hide=Less,Tcl,Cython,Cmake" 
-        alt="Top Languages" 
-        width="280" 
+        src="https://github-readme-stats.vercel.app/api?username=codewizard-404&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4CB9D9&text_color=58A6FF" 
+        alt="GitHub Stats" 
+        width="380" 
     />
     <!-- Animated GIF -->
     <img 
@@ -134,32 +134,23 @@
         width="130" 
         style="border-radius: 12px; margin: 10px; border: 1px solid #4CB9D9; box-shadow: 0 4px 8px rgba(76, 185, 217, 0.2);"
     />
-   <!-- GitHub Stats -->
+   <!-- Languages Section -->
    <img 
-        src="https://github-readme-stats.vercel.app/api?username=codewizard-404&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4CB9D9&text_color=58A6FF" 
-        alt="GitHub Stats" 
-        width="380" 
-        style="border-radius: 12px; margin: 10px; transition: transform 0.3s;" 
-        onmouseover="this.style.transform='scale(1.05)'" 
-        onmouseout="this.style.transform='scale(1)'" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=codewizard-404&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4CB9D9&hide_progress=true&text_color=58A6FF&langs_count=20&hide=Less,Tcl,Cython,Cmake" 
+        alt="Top Languages" 
+        width="280" 
     />
     <!-- Streak Stats -->
    <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=codewizard-404&theme=github-dark-blue&hide_border=true&background=0D1117&ring=4CB9D9&fire=DBF1F7&currStreakLabel=58A6FF" 
         alt="Streak Stats" 
         width="380" 
-        style="border-radius: 12px; margin: 10px; transition: transform 0.3s;" 
-        onmouseover="this.style.transform='scale(1.05)'" 
-        onmouseout="this.style.transform='scale(1)'" 
     />
     <!-- Trophy Showcase -->
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img 
             src="https://github-profile-trophy.vercel.app/?username=codewizard-404&theme=darkhub&no-frame=true&column=8&margin-w=15&margin-h=15" 
             alt="Trophy Showcase" 
-            style="border-radius: 12px; margin: 10px; transition: transform 0.3s;" 
-            onmouseover="this.style.transform='scale(1.05)'" 
-            onmouseout="this.style.transform='scale(1)'" 
         />
     </a>
 </div>

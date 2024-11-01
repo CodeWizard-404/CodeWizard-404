@@ -131,7 +131,7 @@
     <img 
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTViMW9xYTJpdjNyanU0YzgzZ3YxcXNzdGlhZGVmbDR6Mjd4YzBpayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif" 
         alt="HackerMan" 
-        width="150" 
+        width="170" 
         style="border-radius: 12px; margin: 10px; border: 1px solid #4CB9D9; box-shadow: 0 4px 8px rgba(76, 185, 217, 0.2);"
     />
         <!-- GitHub Stats -->

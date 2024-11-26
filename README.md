@@ -10,6 +10,14 @@
 - **Role:** DSI Student at ISET Chrguia, Tunisia  
 - **Aspiration:** Future Software Engineer 🚀  
 ---
+# Contents
+
+- [Skills](#skills)
+- [Projects](#projects)
+- [University Experience](#university-experience)
+- [GitHub Insights](#github-insights)
+
+---
 
 ## 🌐 Connect with Me
 - 📫 Email: [sofienlaghouanem@gmail.com](mailto:sofienlaghouanem@gmail.com)  

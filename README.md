@@ -12,7 +12,7 @@
 ---
 # Contents
 
-- [Skills](## 🔧 Skills)
+- [Skills](##🔧Skills)
 - [Projects](#projects)
 - [University Experience](#university-experience)
 - [GitHub Insights](#github-insights)

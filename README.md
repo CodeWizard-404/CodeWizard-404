@@ -28,45 +28,62 @@
 ## 🔧 Skills
 - 💻 **Programming Languages**: Java, JavaScript, HTML, CSS, TypeScript, PHP, Python, Dart, XML  
 - 📱 **Mobile Development**: Android Studio (Java), Flutter (Dart)  
-- 🌐 **Web Frameworks & Libraries**: AngularJS, Spring Boot, Django, Symfony, Bootstrap  
-- 🗄️ **Database Management**: MySQL, Oracle, PostgreSQL  
-- 🧰 **Development Tools**: Git, Linux, XAMPP, VMware, Postman, Microsoft Excel  
+- 🌐 **Web Frameworks & Libraries**: AngularJS, Spring Boot,NodeJS, Django, Symfony, Bootstrap  
+- 🗄️ **Database Management**: MySQL, Oracle, PostgreSQL, MongoDB, SQLite  
+- 🧰 **Development Tools**: Git, Linux, XAMPP, VMware, Postman, Microsoft Excel, Talend, Anyponit, Visual Studio, soap, PowerBI
 
 - 🎨 **Design & Prototyping**: Figma, UI/UX Principles  
 - 📚 **Conceptual & Theoretical Knowledge**: UML (Unified Modeling Language), Algorithmics, Binary Arithmetic, Scrum  
 
 - 💼 **Soft Skills**: Teamwork & Conflict Resolution, Adaptability & Flexibility, Time Management, Technical Support, Problem Solving  
 
+I've scanned your GitHub repositories and here's the updated list with missing projects added and some changes made:
+
 ---
+
 ## 🛠️ Projects
 
-### 🚀 Presidential Elections
+### 🖥️ [ISET](https://github.com/CodeWizard-404/ISET)  
+**Technologies:** Multiple  
+*Course-related project focused from my University*
+
+### 📊 [ELT-Movies-DataWarehouse](https://github.com/CodeWizard-404/ELT-Movies-DataWarehouse)  
+**Technologies:** Talend, Power BI  
+*End-to-end Data Warehouse project for movie data management, leveraging ETL pipelines and visualizing insights with Power BI.*
+
+### 🖥️ [SOA-ESB-Project-Management](https://github.com/CodeWizard-404/SOA-ESB-Project-Management)  
+**Technologies:** ESB, SpringBoot, NodeJS, C#, PHP  
+*Project management tool focused on SOA and ESB architecture, tracking tasks, and progress with a seamless user interface.*
+
+### 🚀 [Presidential Elections](https://github.com/CodeWizard-404/Presidential-Elections)  
 **Technologies:** Angular, NodeJS  
 *Developed a secure, real-time online voting platform to streamline election processes, featuring user registration, candidate profiles, and live result tracking.*
 
-### 📚 UniTrucker
+### 📚 [UniTrucker](https://github.com/CodeWizard-404/UniTracker)  
 **Technologies:** Angular, Spring Boot  
 *Designed a task management application for university environments, enabling professors to assign tasks, students to track progress, and admins to monitor system performance.*
 
-### 🎓 Prépa du Prépa
-**Technologies:** Django / Symfony  
+### 🎓 [Prépa du Prépa](https://github.com/CodeWizard-404/Prepa-Du-Prepa--Symfony)  
+**Technologies:** Django, Symfony  
 *Built an online resource hub to support engineering students preparing for entrance exams, offering study guides, practice exams, and the latest relevant updates.*
 
-### 🛒 3DEEZ
+### 🛒 [3DEEZ](https://github.com/CodeWizard-404/3DEEZ)  
 **Technologies:** Angular, JSON  
 *Developed an online store for custom 3D-printed products, with features including dynamic previews and an efficient checkout system for enhanced user experience.*
 
-### 🖥️ Algohub
+### 🖥️ [Algohub](https://github.com/CodeWizard-404/AlgoHub)  
 **Technologies:** HTML, CSS, JavaScript  
 *Created a learning platform focused on C programming fundamentals, with interactive resources tailored to meet college curriculum standards.*
 
-### 📄 Portfolio
+### 📄 [Portfolio](https://github.com/CodeWizard-404/my-portfolio)  
 **Technologies:** HTML, CSS, JavaScript  
 *Built a personal portfolio to showcase projects, skills, and achievements, combining an interactive interface with a user-centric design.*
 
-### 📘 Techcamp
+### 📘 [Techcamp](https://github.com/CodeWizard-404/TechCamp)  
 **Technologies:** HTML, CSS, JavaScript  
 *Developed a beginner’s guide to IT, highlighting key fields (Frontend, Backend, DevOps) with curated tools and skill recommendations for each area.*
+
+
 
 ---
 

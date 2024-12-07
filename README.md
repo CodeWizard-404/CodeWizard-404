@@ -129,6 +129,7 @@ I've scanned your GitHub repositories and here's the updated list with missing p
 - **⚡ Flutter**: [Developed cross-platform apps emphasizing UI consistency.](https://github.com/CodeWizard-404/ISET/tree/main/3_DSI/S1/Flutter)
 - **🔄 SOA**: [Enhanced system interoperability and scalability.](https://github.com/CodeWizard-404/ISET/tree/main/3_DSI/S1/SOA)
 - **🌐 Node.js**: [Built efficient server-side applications using event-driven programming.](https://github.com/CodeWizard-404/ISET/tree/main/3_DSI/S1/NodeJS)
+- **📂 ELT**: [Worked on ELT processes, building with Talend and visualizing insights in Power BI.](https://github.com/CodeWizard-404/ISET/tree/main/3_DSI/S1/DB)
 
 ---
 

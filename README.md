@@ -75,7 +75,7 @@ I've scanned your GitHub repositories and here's the updated list with missing p
 **Technologies:** HTML, CSS, JavaScript  
 *Created a learning platform focused on C programming fundamentals, with interactive resources tailored to meet college curriculum standards.*
 
-### 📄 [Portfolio](https://github.com/CodeWizard-404/my-portfolio)  
+### 📄 [Portfolio](https://github.com/CodeWizard-404/portfolio)  
 **Technologies:** HTML, CSS, JavaScript  
 *Built a personal portfolio to showcase projects, skills, and achievements, combining an interactive interface with a user-centric design.*
 

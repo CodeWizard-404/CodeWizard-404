@@ -106,7 +106,7 @@ I've scanned your GitHub repositories and here's the updated list with missing p
 ### 🌟 **2d Year DSI**
 
 ### 🗓️ Semester 1
-- **🏗️ Java: [Reviewed basic concepts of Java programming and explored introductory topics.](https://github.com/CodeWizard-404/ISET/tree/main/2_DSI/S1/Java)
+- **🏗️ Java**: [Reviewed basic concepts of Java programming and explored introductory topics.](https://github.com/CodeWizard-404/ISET/tree/main/2_DSI/S1/Java)
 - **📱 Angular**: [Developed dynamic, scalable web applications.](https://github.com/CodeWizard-404/ISET/tree/main/2_DSI/S1/Angular)
 - **🔗 HTML, CSS3, JavaScript**: [Crafted interactive and visually appealing web pages.](https://github.com/CodeWizard-404/ISET/tree/main/2_DSI/S1/DEV%20web)
 - **📊 SQL**: [Optimized database querying and management.](https://github.com/CodeWizard-404/ISET/tree/main/2_DSI/S1/BD)

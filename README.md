@@ -31,13 +31,9 @@
 - 🌐 **Web Frameworks & Libraries**: AngularJS, Spring Boot,NodeJS, Django, Symfony, Bootstrap  
 - 🗄️ **Database Management**: MySQL, Oracle, PostgreSQL, MongoDB, SQLite  
 - 🧰 **Development Tools**: Git, Linux, XAMPP, VMware, Postman, Microsoft Excel, Talend, Anyponit, Visual Studio, soap, PowerBI
-
 - 🎨 **Design & Prototyping**: Figma, UI/UX Principles  
 - 📚 **Conceptual & Theoretical Knowledge**: UML (Unified Modeling Language), Algorithmics, Binary Arithmetic, Scrum  
-
 - 💼 **Soft Skills**: Teamwork & Conflict Resolution, Adaptability & Flexibility, Time Management, Technical Support, Problem Solving  
-
-I've scanned your GitHub repositories and here's the updated list with missing projects added and some changes made:
 
 ---
 

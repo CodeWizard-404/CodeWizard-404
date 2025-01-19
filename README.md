@@ -42,7 +42,7 @@
 
 ### 🖥️ [ISET](https://github.com/CodeWizard-404/ISET)  
 **Technologies:** Multiple  
-- *Course-related project focused from my University*
+*Course-related project focused from my University*
 
 ### 🛠️ [Circuit_De_Stage](https://github.com/CodeWizard-404/Circuit_De_Stage)  
 **Technologies:** Angular, Spring Boot, JWT, MySQL

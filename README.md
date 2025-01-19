@@ -45,48 +45,48 @@
 *Course-related project focused from my University*
 
 ### 🛠️ [Circuit_De_Stage](https://github.com/CodeWizard-404/Circuit_De_Stage)  
-**Technologies:** Angular, Spring Boot, JWT, MySQL
+**Technologies:** Angular, Spring Boot, JWT, MySQL  
 *A comprehensive platform designed to manage internship applications. The system is equipped with services to efficiently process and manage internship requests.*
 
 ### 🌉 [The_Bridge](https://github.com/CodeWizard-404/The_Bridge)  
-**Technologies:** Angular, Spring Boot, JWT, MySQL
+**Technologies:** Angular, Spring Boot, JWT, MySQL  
 *learning platform designed to provide comprehensive courses across a variety of modern technologies.*
 
 ### 📊 [ELT-Movies-DataWarehouse](https://github.com/CodeWizard-404/ELT-Movies-DataWarehouse)  
 **Technologies:** Talend, Power BI  
-- *End-to-end Data Warehouse project for movie data management, leveraging ETL pipelines and visualizing insights with Power BI.*
+*End-to-end Data Warehouse project for movie data management, leveraging ETL pipelines and visualizing insights with Power BI.*
 
 ### 🖥️ [SOA-ESB-Project-Management](https://github.com/CodeWizard-404/SOA-ESB-Project-Management)  
 **Technologies:** ESB, SpringBoot, NodeJS, C#, PHP  
-- *Project management tool focused on SOA and ESB architecture, tracking tasks, and progress with a seamless user interface.*
+*Project management tool focused on SOA and ESB architecture, tracking tasks, and progress with a seamless user interface.*
 
 ### 🚀 [Presidential Elections](https://github.com/CodeWizard-404/Presidential-Elections)  
 **Technologies:** Angular, NodeJS  
-- *Developed a secure, real-time online voting platform to streamline election processes, featuring user registration, candidate profiles, and live result tracking.*
+*Developed a secure, real-time online voting platform to streamline election processes, featuring user registration, candidate profiles, and live result tracking.*
 
 ### 📚 [UniTrucker](https://github.com/CodeWizard-404/UniTracker)  
 **Technologies:** Angular, Spring Boot  
-- *Designed a task management application for university environments, enabling professors to assign tasks, students to track progress, and admins to monitor system performance.*
+*Designed a task management application for university environments, enabling professors to assign tasks, students to track progress, and admins to monitor system performance.*
 
 ### 🎓 [Prépa du Prépa](https://github.com/CodeWizard-404/Prepa-Du-Prepa--Symfony)  
 **Technologies:** Django, Symfony  
-- *Built an online resource hub to support engineering students preparing for entrance exams, offering study guides, practice exams, and the latest relevant updates.*
+*Built an online resource hub to support engineering students preparing for entrance exams, offering study guides, practice exams, and the latest relevant updates.*
 
 ### 🛒 [3DEEZ](https://github.com/CodeWizard-404/3DEEZ)  
 **Technologies:** Angular, JSON  
-- *Developed an online store for custom 3D-printed products, with features including dynamic previews and an efficient checkout system for enhanced user experience.*
+*Developed an online store for custom 3D-printed products, with features including dynamic previews and an efficient checkout system for enhanced user experience.*
 
 ### 🖥️ [Algohub](https://github.com/CodeWizard-404/AlgoHub)  
 **Technologies:** HTML, CSS, JavaScript  
-- *Created a learning platform focused on C programming fundamentals, with interactive resources tailored to meet college curriculum standards.*
+*Created a learning platform focused on C programming fundamentals, with interactive resources tailored to meet college curriculum standards.*
 
 ### 📄 [Portfolio](https://github.com/CodeWizard-404/portfolio)  
 **Technologies:** HTML, CSS, JavaScript  
-- *Built a personal portfolio to showcase projects, skills, and achievements, combining an interactive interface with a user-centric design.*
+*Built a personal portfolio to showcase projects, skills, and achievements, combining an interactive interface with a user-centric design.*
 
 ### 📘 [Techcamp](https://github.com/CodeWizard-404/TechCamp)  
 **Technologies:** HTML, CSS, JavaScript  
-- *Developed a beginner’s guide to IT, highlighting key fields (Frontend, Backend, DevOps) with curated tools and skill recommendations for each area.*
+*Developed a beginner’s guide to IT, highlighting key fields (Frontend, Backend, DevOps) with curated tools and skill recommendations for each area.*
 
 
 

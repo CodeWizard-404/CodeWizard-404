@@ -46,10 +46,12 @@
 
 ### 🛠️ [Circuit_De_Stage](https://github.com/CodeWizard-404/Circuit_De_Stage)  
 **Technologies:** Angular, Spring Boot, JWT, MySQL
+
 *A comprehensive platform designed to manage internship applications. The system is equipped with services to efficiently process and manage internship requests, providing a seamless experience for both applicants and administrators.*
 
 ### 🌉 [The_Bridge](https://github.com/CodeWizard-404/The_Bridge)  
 **Technologies:** Angular, Spring Boot, JWT, MySQL
+
 *learning platform designed to provide comprehensive courses across a variety of modern technologies.*
 
 ### 📊 [ELT-Movies-DataWarehouse](https://github.com/CodeWizard-404/ELT-Movies-DataWarehouse)  

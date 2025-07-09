@@ -44,6 +44,14 @@
 **Technologies:** Multiple  
 *Course-related project focused from my University*
 
+### 🌟 [TraceFlow](https://github.com/CodeWizard-404/traceflow)  
+**Technologies:**  
+[![React](https://img.shields.io/badge/React-v18-61DAFB?logo=react)](https://reactjs.org/)  
+[![Flutter](https://img.shields.io/badge/Flutter-v3.29-02569B?logo=flutter)](https://flutter.dev/)  
+[![Node.js](https://img.shields.io/badge/Node.js-v22.14-339933?logo=node.js)](https://nodejs.org/)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v9-4169E1?logo=postgresql)](https://www.postgresql.org/)  
+*AI-powered platform for Enda Tao, streamlining territorial activity tracking, timesheet management, and receipt book traceability. Features secure authentication, geolocation, real-time notifications, and AI-driven analytics with dynamic dashboards. 🚀*
+
 ### 🛠️ [Circuit_De_Stage](https://github.com/CodeWizard-404/Circuit_De_Stage)  
 **Technologies:** Angular, Spring Boot, JWT, MySQL  
 *A comprehensive platform designed to manage internship applications. The system is equipped with services to efficiently process and manage internship requests.*

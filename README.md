@@ -45,55 +45,51 @@
 *Course-related project focused from my University*
 
 ### 🌟 [TraceFlow](https://github.com/CodeWizard-404/traceflow)  
-**Technologies:**  
-[![React](https://img.shields.io/badge/React-v18-61DAFB?logo=react)](https://reactjs.org/)  
-[![Flutter](https://img.shields.io/badge/Flutter-v3.29-02569B?logo=flutter)](https://flutter.dev/)  
-[![Node.js](https://img.shields.io/badge/Node.js-v22.14-339933?logo=node.js)](https://nodejs.org/)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v9-4169E1?logo=postgresql)](https://www.postgresql.org/)  
+**Technologies:** [![React](https://img.shields.io/badge/React-v18-61DAFB?logo=react)](https://reactjs.org/) [![Flutter](https://img.shields.io/badge/Flutter-v3.29-02569B?logo=flutter)](https://flutter.dev/) [![Node.js](https://img.shields.io/badge/Node.js-v22.14-339933?logo=node.js)](https://nodejs.org/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v9-4169E1?logo=postgresql)](https://www.postgresql.org/)  
 *AI-powered platform for Enda Tao, streamlining territorial activity tracking, timesheet management, and receipt book traceability. Features secure authentication, geolocation, real-time notifications, and AI-driven analytics with dynamic dashboards. 🚀*
 
 ### 🛠️ [Circuit_De_Stage](https://github.com/CodeWizard-404/Circuit_De_Stage)  
-**Technologies:** Angular, Spring Boot, JWT, MySQL  
+**Technologies:** [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)](https://angular.io/) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring)](https://spring.io/projects/spring-boot) [![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens)](https://jwt.io/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)](https://www.mysql.com/)  
 *A comprehensive platform designed to manage internship applications. The system is equipped with services to efficiently process and manage internship requests.*
 
 ### 🌉 [The_Bridge](https://github.com/CodeWizard-404/The_Bridge)  
-**Technologies:** Angular, Spring Boot, JWT, MySQL  
+**Technologies:** [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)](https://angular.io/) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring)](https://spring.io/projects/spring-boot) [![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens)](https://jwt.io/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)](https://www.mysql.com/)  
 *learning platform designed to provide comprehensive courses across a variety of modern technologies.*
 
 ### 📊 [ELT-Movies-DataWarehouse](https://github.com/CodeWizard-404/ELT-Movies-DataWarehouse)  
-**Technologies:** Talend, Power BI  
+**Technologies:** [![Talend](https://img.shields.io/badge/Talend-000000?logo=talend)](https://www.talend.com/) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi)](https://powerbi.microsoft.com/)  
 *End-to-end Data Warehouse project for movie data management, leveraging ETL pipelines and visualizing insights with Power BI.*
 
 ### 🖥️ [SOA-ESB-Project-Management](https://github.com/CodeWizard-404/SOA-ESB-Project-Management)  
-**Technologies:** ESB, SpringBoot, NodeJS, C#, PHP  
+**Technologies:** [![ESB](https://img.shields.io/badge/ESB-000000?logo=server)](https://en.wikipedia.org/wiki/Enterprise_service_bus) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring)](https://spring.io/projects/spring-boot) [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)](https://nodejs.org/) [![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)](https://www.php.net/)  
 *Project management tool focused on SOA and ESB architecture, tracking tasks, and progress with a seamless user interface.*
 
 ### 🚀 [Presidential Elections](https://github.com/CodeWizard-404/Presidential-Elections)  
-**Technologies:** Angular, NodeJS  
+**Technologies:** [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)](https://angular.io/) [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)](https://nodejs.org/)  
 *Developed a secure, real-time online voting platform to streamline election processes, featuring user registration, candidate profiles, and live result tracking.*
 
 ### 📚 [UniTrucker](https://github.com/CodeWizard-404/UniTracker)  
-**Technologies:** Angular, Spring Boot  
+**Technologies:** [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)](https://angular.io/) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring)](https://spring.io/projects/spring-boot)  
 *Designed a task management application for university environments, enabling professors to assign tasks, students to track progress, and admins to monitor system performance.*
 
 ### 🎓 [Prépa du Prépa](https://github.com/CodeWizard-404/Prepa-Du-Prepa--Symfony)  
-**Technologies:** Django, Symfony  
+**Technologies:** [![Django](https://img.shields.io/badge/Django-092E20?logo=django)](https://www.djangoproject.com/) [![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony)](https://symfony.com/)  
 *Built an online resource hub to support engineering students preparing for entrance exams, offering study guides, practice exams, and the latest relevant updates.*
 
 ### 🛒 [3DEEZ](https://github.com/CodeWizard-404/3DEEZ)  
-**Technologies:** Angular, JSON  
+**Technologies:** [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)](https://angular.io/) [![JSON](https://img.shields.io/badge/JSON-000000?logo=json)](https://www.json.org/)  
 *Developed an online store for custom 3D-printed products, with features including dynamic previews and an efficient checkout system for enhanced user experience.*
 
 ### 🖥️ [Algohub](https://github.com/CodeWizard-404/AlgoHub)  
-**Technologies:** HTML, CSS, JavaScript  
+**Technologies:** [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 *Created a learning platform focused on C programming fundamentals, with interactive resources tailored to meet college curriculum standards.*
 
 ### 📄 [Portfolio](https://github.com/CodeWizard-404/portfolio)  
-**Technologies:** HTML, CSS, JavaScript  
+**Technologies:** [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 *Built a personal portfolio to showcase projects, skills, and achievements, combining an interactive interface with a user-centric design.*
 
 ### 📘 [Techcamp](https://github.com/CodeWizard-404/TechCamp)  
-**Technologies:** HTML, CSS, JavaScript  
+**Technologies:** [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 *Developed a beginner’s guide to IT, highlighting key fields (Frontend, Backend, DevOps) with curated tools and skill recommendations for each area.*
 
 

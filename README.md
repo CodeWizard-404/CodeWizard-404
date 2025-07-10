@@ -39,88 +39,71 @@
 ## 🔧 Skills
 
 ### 💻 Core Languages
-<span style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white&style=for-the-badge" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" /></a>
-  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" /></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" /></a>
-  <a href="https://twig.symfony.com" target="_blank"><img src="https://img.shields.io/badge/Twig-%2393C47D?logo=twig&logoColor=white&style=for-the-badge" alt="Twig" /></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-%230175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" /></a>
-  <a href="https://www.cprogramming.com" target="_blank"><img src="https://img.shields.io/badge/C-%2300599C?logo=c&logoColor=white&style=for-the-badge" alt="C" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img src="https://img.shields.io/badge/C%23-%23239120?logo=csharp&logoColor=white&style=for-the-badge" alt="C#" /></a>
-</span>
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&style=for-the-badge)](https://www.java.com/) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/) 
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge)](https://www.php.net/) 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge)](https://www.python.org/) 
+[![Twig](https://img.shields.io/badge/Twig-8CB52E?logo=twig&style=for-the-badge)](https://twig.symfony.com/) 
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&style=for-the-badge)](https://dart.dev/) 
+[![C](https://img.shields.io/badge/C-00599C?logo=c&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language)) 
+[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&style=for-the-badge)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 ### 📱 Mobile Development
-<span style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-%2302569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" /></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white&style=for-the-badge" alt="Android Studio" /></a>
-</span>
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=for-the-badge)](https://flutter.dev/) 
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&style=for-the-badge)](https://developer.android.com/studio)
 
 ### 🌐 Web Development
-<span style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://angularjs.org" target="_blank"><img src="https://img.shields.io/badge/AngularJS-%23E23237?logo=angularjs&logoColor=white&style=for-the-badge" alt="AngularJS" /></a>
-  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" /></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring Boot" /></a>
-  <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django" /></a>
-  <a href="https://symfony.com" target="_blank"><img src="https://img.shields.io/badge/Symfony-%23000000?logo=symfony&logoColor=white&style=for-the-badge" alt="Symfony" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" /></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-%237952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" /></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind-%2338B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind" /></a>
-</span>
+[![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&style=for-the-badge)](https://angularjs.org/) 
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge)](https://reactjs.org/) 
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&style=for-the-badge)](https://spring.io/projects/spring-boot) 
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge)](https://www.djangoproject.com/) 
+[![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&style=for-the-badge)](https://symfony.com/) 
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge)](https://nodejs.org/) 
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/) 
+[![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&style=for-the-badge)](https://tailwindcss.com/)
 
 ### 🗄️ Databases
-<span style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" /></a>
-  <a href="https://www.oracle.com/database" target="_blank"><img src="https://img.shields.io/badge/Oracle-%23F80000?logo=oracle&logoColor=white&style=for-the-badge" alt="Oracle" /></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" /></a>
-  <a href="https://www.sqlite.org" target="_blank"><img src="https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite" /></a>
-</span>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge)](https://www.mysql.com/) 
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=for-the-badge)](https://www.oracle.com/) 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&style=for-the-badge)](https://www.postgresql.org/) 
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=for-the-badge)](https://www.mongodb.com/)
 
 ### 🧰 Tools and Technologies
-<span style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" /></a>
-  <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" /></a>
-  <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" /></a>
-  <a href="https://www.vmware.com" target="_blank"><img src="https://img.shields.io/badge/VMware-%236076A2?logo=vmware&logoColor=white&style=for-the-badge" alt="VMware" /></a>
-  <a href="https://www.postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" /></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-%23217346?logo=microsoftexcel&logoColor=white&style=for-the-badge" alt="Microsoft Excel" /></a>
-  <a href="https://powerbi.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-%23F2C811?logo=powerbi&logoColor=black&style=for-the-badge" alt="Power BI" /></a>
-  <a href="https://www.talend.com" target="_blank"><img src="https://img.shields.io/badge/Talend-%23000000?logo=talend&logoColor=white&style=for-the-badge" alt="Talend" /></a>
-  <a href="https://en.wikipedia.org/wiki/Enterprise_service_bus" target="_blank"><img src="https://img.shields.io/badge/ESB-%23000000?logo=server&logoColor=white&style=for-the-badge" alt="ESB" /></a>
-  <a href="https://www.soapui.org" target="_blank"><img src="https://img.shields.io/badge/Soap-%23007ACC?logo=soap&logoColor=white&style=for-the-badge" alt="Soap" /></a>
-  <a href="https://restfulapi.net" target="_blank"><img src="https://img.shields.io/badge/REST%20API-%23000000?logo=api&logoColor=white&style=for-the-badge" alt="REST API" /></a>
-  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" /></a>
-  <a href="https://www.keycloak.org" target="_blank"><img src="https://img.shields.io/badge/Keycloak-%23000000?logo=keycloak&logoColor=white&style=for-the-badge" alt="Keycloak" /></a>
-  <a href="https://websocket.org" target="_blank"><img src="https://img.shields.io/badge/WebSockets-%23000000?logo=websocket&logoColor=white&style=for-the-badge" alt="WebSockets" /></a>
-  <a href="https://swagger.io" target="_blank"><img src="https://img.shields.io/badge/Swagger-%2385EA2D?logo=swagger&logoColor=black&style=for-the-badge" alt="Swagger" /></a>
-</span>
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge)](https://git-scm.com/) 
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge)](https://www.linux.org/) 
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=for-the-badge)](https://www.figma.com/) 
+[![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&style=for-the-badge)](https://www.vmware.com/) 
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&style=for-the-badge)](https://www.postman.com/) 
+[![Microsoft Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel) 
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&style=for-the-badge)](https://powerbi.microsoft.com/) 
+[![Talend](https://img.shields.io/badge/Talend-000000?logo=talend&style=for-the-badge)](https://www.talend.com/) 
+[![ESB](https://img.shields.io/badge/ESB-000000?logo=server&style=for-the-badge)](https://en.wikipedia.org/wiki/Enterprise_service_bus) 
+[![ELT](https://img.shields.io/badge/ELT-000000?logo=data&style=for-the-badge)](https://en.wikipedia.org/wiki/Extract,_load,_transform) 
+[![Soap](https://img.shields.io/badge/SOAP-000000?logo=soap&style=for-the-badge)](https://en.wikipedia.org/wiki/SOAP) 
+[![REST API](https://img.shields.io/badge/REST%20API-000000?logo=rest&style=for-the-badge)](https://en.wikipedia.org/wiki/Representational_state_transfer) 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge)](https://www.docker.com/) 
+[![Keycloak](https://img.shields.io/badge/Keycloak-000000?logo=keycloak&style=for-the-badge)](https://www.keycloak.org/) 
+[![WebSockets](https://img.shields.io/badge/WebSockets-000000?logo=websocket&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) 
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&style=for-the-badge)](https://swagger.io/)
 
-### 🎨 Conception & Modeling
-<span style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://www.uml.org" target="_blank"><img src="https://img.shields.io/badge/UML-%23000000?logo=uml&logoColor=white&style=for-the-badge" alt="UML" /></a>
-  <a href="https://www.scrum.org" target="_blank"><img src="https://img.shields.io/badge/Scrum-%23000000?logo=scrum&logoColor=white&style=for-the-badge" alt="Scrum" /></a>
-</span>
+### 🧠 Conception & Modeling
+[![UML](https://img.shields.io/badge/UML-000000?logo=uml&style=for-the-badge)](https://en.wikipedia.org/wiki/Unified_Modeling_Language) 
+[![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrum&style=for-the-badge)](https://www.scrum.org/)
 
 ### 📚 Other
-<span style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank"><img src="https://img.shields.io/badge/Data%20Structures-%23000000?logo=data&logoColor=white&style=for-the-badge" alt="Data Structures" /></a>
-  <a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank"><img src="https://img.shields.io/badge/Algorithms-%23000000?logo=algorithm&logoColor=white&style=for-the-badge" alt="Algorithms" /></a>
-  <a href="https://en.wikipedia.org/wiki/Binary_number" target="_blank"><img src="https://img.shields.io/badge/Binary%20Arithmetic-%23000000?logo=binary&logoColor=white&style=for-the-badge" alt="Binary Arithmetic" /></a>
-</span>
+[![Data Structures](https://img.shields.io/badge/Data%20Structures-000000?logo=code&style=for-the-badge)](https://en.wikipedia.org/wiki/Data_structure) 
+[![Algorithms](https://img.shields.io/badge/Algorithms-000000?logo=code&style=for-the-badge)](https://en.wikipedia.org/wiki/Algorithm) 
+[![Binary Arithmetic](https://img.shields.io/badge/Binary%20Arithmetic-000000?logo=math&style=for-the-badge)](https://en.wikipedia.org/wiki/Binary_arithmetic)
 
 ### 💼 Soft Skills
-<span style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/Teamwork-%23000000?logo=teamwork&logoColor=white&style=for-the-badge" alt="Teamwork" />
-  <img src="https://img.shields.io/badge/Adaptability-%23000000?logo=adaptability&logoColor=white&style=for-the-badge" alt="Adaptability" />
-  <img src="https://img.shields.io/badge/Time%20Management-%23000000?logo=timemanagement&logoColor=white&style=for-the-badge" alt="Time Management" />
-  <img src="https://img.shields.io/badge/Technical%20Support-%23000000?logo=support&logoColor=white&style=for-the-badge" alt="Technical Support" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-%23000000?logo=problemsolving&logoColor=white&style=for-the-badge" alt="Problem Solving" />
-</span>
-
+[![Teamwork](https://img.shields.io/badge/Teamwork-000000?logo=team&style=for-the-badge)](https://en.wikipedia.org/wiki/Teamwork) 
+[![Adaptability](https://img.shields.io/badge/Adaptability-000000?logo=adapt&style=for-the-badge)](https://en.wikipedia.org/wiki/Adaptability) 
+[![Time Management](https://img.shields.io/badge/Time%20Management-000000?logo=time&style=for-the-badge)](https://en.wikipedia.org/wiki/Time_management) 
+[![Technical Support](https://img.shields.io/badge/Technical%20Support-000000?logo=support&style=for-the-badge)](https://en.wikipedia.org/wiki/Technical_support) 
+[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-000000?logo=brain&style=for-the-badge)](https://en.wikipedia.org/wiki/Problem_solving)
 
 
 ---

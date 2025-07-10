@@ -34,7 +34,94 @@
 - 🧰 **Development Tools**: Git, Linux, XAMPP, VMware, Postman, Microsoft Excel, Talend, Anyponit, Visual Studio, soap, PowerBI
 - 🎨 **Design & Prototyping**: Figma, UI/UX Principles  
 - 📚 **Conceptual & Theoretical Knowledge**: UML (Unified Modeling Language), Algorithmics, Binary Arithmetic, Scrum  
-- 💼 **Soft Skills**: Teamwork & Conflict Resolution, Adaptability & Flexibility, Time Management, Technical Support, Problem Solving  
+- 💼 **Soft Skills**: Teamwork & Conflict Resolution, Adaptability & Flexibility, Time Management, Technical Support, Problem Solving
+
+## 🔧 Skills
+
+### 💻 Core Languages
+<span style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white&style=for-the-badge" alt="Java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" /></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" /></a>
+  <a href="https://twig.symfony.com" target="_blank"><img src="https://img.shields.io/badge/Twig-%2393C47D?logo=twig&logoColor=white&style=for-the-badge" alt="Twig" /></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-%230175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" /></a>
+  <a href="https://www.cprogramming.com" target="_blank"><img src="https://img.shields.io/badge/C-%2300599C?logo=c&logoColor=white&style=for-the-badge" alt="C" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img src="https://img.shields.io/badge/C%23-%23239120?logo=csharp&logoColor=white&style=for-the-badge" alt="C#" /></a>
+</span>
+
+### 📱 Mobile Development
+<span style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-%2302569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" /></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white&style=for-the-badge" alt="Android Studio" /></a>
+</span>
+
+### 🌐 Web Development
+<span style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <a href="https://angularjs.org" target="_blank"><img src="https://img.shields.io/badge/AngularJS-%23E23237?logo=angularjs&logoColor=white&style=for-the-badge" alt="AngularJS" /></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" /></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring Boot" /></a>
+  <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django" /></a>
+  <a href="https://symfony.com" target="_blank"><img src="https://img.shields.io/badge/Symfony-%23000000?logo=symfony&logoColor=white&style=for-the-badge" alt="Symfony" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-%237952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" /></a>
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind-%2338B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind" /></a>
+</span>
+
+### 🗄️ Databases
+<span style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" /></a>
+  <a href="https://www.oracle.com/database" target="_blank"><img src="https://img.shields.io/badge/Oracle-%23F80000?logo=oracle&logoColor=white&style=for-the-badge" alt="Oracle" /></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" /></a>
+  <a href="https://www.sqlite.org" target="_blank"><img src="https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite" /></a>
+</span>
+
+### 🧰 Tools and Technologies
+<span style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" /></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" /></a>
+  <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" /></a>
+  <a href="https://www.vmware.com" target="_blank"><img src="https://img.shields.io/badge/VMware-%236076A2?logo=vmware&logoColor=white&style=for-the-badge" alt="VMware" /></a>
+  <a href="https://www.postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-%23217346?logo=microsoftexcel&logoColor=white&style=for-the-badge" alt="Microsoft Excel" /></a>
+  <a href="https://powerbi.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-%23F2C811?logo=powerbi&logoColor=black&style=for-the-badge" alt="Power BI" /></a>
+  <a href="https://www.talend.com" target="_blank"><img src="https://img.shields.io/badge/Talend-%23000000?logo=talend&logoColor=white&style=for-the-badge" alt="Talend" /></a>
+  <a href="https://en.wikipedia.org/wiki/Enterprise_service_bus" target="_blank"><img src="https://img.shields.io/badge/ESB-%23000000?logo=server&logoColor=white&style=for-the-badge" alt="ESB" /></a>
+  <a href="https://www.soapui.org" target="_blank"><img src="https://img.shields.io/badge/Soap-%23007ACC?logo=soap&logoColor=white&style=for-the-badge" alt="Soap" /></a>
+  <a href="https://restfulapi.net" target="_blank"><img src="https://img.shields.io/badge/REST%20API-%23000000?logo=api&logoColor=white&style=for-the-badge" alt="REST API" /></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" /></a>
+  <a href="https://www.keycloak.org" target="_blank"><img src="https://img.shields.io/badge/Keycloak-%23000000?logo=keycloak&logoColor=white&style=for-the-badge" alt="Keycloak" /></a>
+  <a href="https://websocket.org" target="_blank"><img src="https://img.shields.io/badge/WebSockets-%23000000?logo=websocket&logoColor=white&style=for-the-badge" alt="WebSockets" /></a>
+  <a href="https://swagger.io" target="_blank"><img src="https://img.shields.io/badge/Swagger-%2385EA2D?logo=swagger&logoColor=black&style=for-the-badge" alt="Swagger" /></a>
+</span>
+
+### 🎨 Conception & Modeling
+<span style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <a href="https://www.uml.org" target="_blank"><img src="https://img.shields.io/badge/UML-%23000000?logo=uml&logoColor=white&style=for-the-badge" alt="UML" /></a>
+  <a href="https://www.scrum.org" target="_blank"><img src="https://img.shields.io/badge/Scrum-%23000000?logo=scrum&logoColor=white&style=for-the-badge" alt="Scrum" /></a>
+</span>
+
+### 📚 Other
+<span style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank"><img src="https://img.shields.io/badge/Data%20Structures-%23000000?logo=data&logoColor=white&style=for-the-badge" alt="Data Structures" /></a>
+  <a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank"><img src="https://img.shields.io/badge/Algorithms-%23000000?logo=algorithm&logoColor=white&style=for-the-badge" alt="Algorithms" /></a>
+  <a href="https://en.wikipedia.org/wiki/Binary_number" target="_blank"><img src="https://img.shields.io/badge/Binary%20Arithmetic-%23000000?logo=binary&logoColor=white&style=for-the-badge" alt="Binary Arithmetic" /></a>
+</span>
+
+### 💼 Soft Skills
+<span style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/Teamwork-%23000000?logo=teamwork&logoColor=white&style=for-the-badge" alt="Teamwork" />
+  <img src="https://img.shields.io/badge/Adaptability-%23000000?logo=adaptability&logoColor=white&style=for-the-badge" alt="Adaptability" />
+  <img src="https://img.shields.io/badge/Time%20Management-%23000000?logo=timemanagement&logoColor=white&style=for-the-badge" alt="Time Management" />
+  <img src="https://img.shields.io/badge/Technical%20Support-%23000000?logo=support&logoColor=white&style=for-the-badge" alt="Technical Support" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-%23000000?logo=problemsolving&logoColor=white&style=for-the-badge" alt="Problem Solving" />
+</span>
+
+
 
 ---
 

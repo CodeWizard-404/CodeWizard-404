@@ -26,18 +26,8 @@
   - [Stack Overflow](https://stackoverflow.com/users/sofyen-laghouanem)  
 
 ---
-## 🔧 Skills
-- 💻 **Programming Languages**: Java, JavaScript, HTML, CSS, TypeScript, PHP, Python, Dart, XML  
-- 📱 **Mobile Development**: Android Studio (Java), Flutter (Dart)  
-- 🌐 **Web Frameworks & Libraries**: AngularJS, Spring Boot,NodeJS, Django, Symfony, Bootstrap  
-- 🗄️ **Database Management**: MySQL, Oracle, PostgreSQL, MongoDB, SQLite  
-- 🧰 **Development Tools**: Git, Linux, XAMPP, VMware, Postman, Microsoft Excel, Talend, Anyponit, Visual Studio, soap, PowerBI
-- 🎨 **Design & Prototyping**: Figma, UI/UX Principles  
-- 📚 **Conceptual & Theoretical Knowledge**: UML (Unified Modeling Language), Algorithmics, Binary Arithmetic, Scrum  
-- 💼 **Soft Skills**: Teamwork & Conflict Resolution, Adaptability & Flexibility, Time Management, Technical Support, Problem Solving
 
 ## 🔧 Skills
-
 ### 💻 Core Languages
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&style=flat&logoColor=ffffff&labelColor=333333)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat&logoColor=ffffff&labelColor=333333)
@@ -50,11 +40,9 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&style=flat&logoColor=ffffff&labelColor=333333)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&style=flat&logoColor=ffffff&labelColor=333333)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&style=flat&logoColor=ffffff&labelColor=333333)
-
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&style=flat&logoColor=ffffff&labelColor=333333)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&style=flat&logoColor=ffffff&labelColor=333333)
-
 ### 🌐 Web Development
 ![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?logo=angularjs&style=flat&logoColor=ffffff&labelColor=333333)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat&logoColor=ffffff&labelColor=333333)
@@ -64,13 +52,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat&logoColor=ffffff&labelColor=333333)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&style=flat&logoColor=ffffff&labelColor=333333)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss&style=flat&logoColor=ffffff&labelColor=333333)
-
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=flat&logoColor=ffffff&labelColor=333333)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&style=flat&logoColor=ffffff&labelColor=333333)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&style=flat&logoColor=ffffff&labelColor=333333)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=flat&logoColor=ffffff&labelColor=333333)
-
 ### 🧰 Tools and Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat&logoColor=ffffff&labelColor=333333)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&style=flat&logoColor=ffffff&labelColor=333333)
@@ -88,16 +74,13 @@
 ![Keycloak](https://img.shields.io/badge/-Keycloak-000000?logo=keycloak&style=flat&logoColor=ffffff&labelColor=333333)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-000000?logo=websocket&style=flat&logoColor=ffffff&labelColor=333333)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&style=flat&logoColor=ffffff&labelColor=333333)
-
 ### 🧠 Conception & Modeling
 ![UML](https://img.shields.io/badge/-UML-000000?logo=uml&style=flat&logoColor=ffffff&labelColor=333333)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrum&style=flat&logoColor=ffffff&labelColor=333333)
-
 ### 📚 Other
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-000000?logo=code&style=flat&logoColor=ffffff&labelColor=333333)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-000000?logo=code&style=flat&logoColor=ffffff&labelColor=333333)
 ![Binary Arithmetic](https://img.shields.io/badge/-Binary%20Arithmetic-000000?logo=math&style=flat&logoColor=ffffff&labelColor=333333)
-
 ### 💼 Soft Skills
 ![Teamwork](https://img.shields.io/badge/-Teamwork-000000?logo=team&style=flat&logoColor=ffffff&labelColor=333333)
 ![Adaptability](https://img.shields.io/badge/-Adaptability-000000?logo=adapt&style=flat&logoColor=ffffff&labelColor=333333)

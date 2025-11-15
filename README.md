@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=2465F7&center=true&vCenter=true&random=false&width=600&lines=Hi%F0%9F%91%8B%2C+I'm+LAGHOUANEM+Sofyen;DSI+student+at+ISET+Chrguia;Future+Software+Engineer" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly;Information+Systems+Developer)](https://git.io/typing-svg)
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=codewizard-404&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>

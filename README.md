@@ -10,7 +10,15 @@
 
 ## 👨‍💻 About Me
 - **Name:** Sofyen Laghouanem  
-- **Role:** Full Stack Developer
+- **Role:** Full Stack Developer  
+
+I specialize in designing and developing complete software solutions, covering both the client side and server side.  
+My work focuses on building reliable, scalable, and maintainable systems while ensuring clarity and structure in every stage of development.
+
+I have a strong interest in system architecture, application design, and the continuous improvement of development processes.  
+I approach each project with attention to detail and a commitment to delivering well-structured, efficient, and long-lasting solutions.
+
+I aim to support innovation, maintain high technical standards, and contribute to meaningful software projects.
 ---
 
 ## 🌐 Connect with Me

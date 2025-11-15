@@ -19,6 +19,7 @@ I have a strong interest in system architecture, application design, and the con
 I approach each project with attention to detail and a commitment to delivering well-structured, efficient, and long-lasting solutions.
 
 I aim to support innovation, maintain high technical standards, and contribute to meaningful software projects.
+
 ---
 
 ## 🌐 Connect with Me

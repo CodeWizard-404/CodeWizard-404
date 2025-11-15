@@ -10,8 +10,7 @@
 
 ## 👨‍💻 About Me
 - **Name:** Sofyen Laghouanem  
-- **Role:** DSI Student at ISET Chrguia, Tunisia  
-- **Aspiration:** Future Software Engineer 🚀  
+- **Role:** Full Stack Developer
 ---
 
 ## 🌐 Connect with Me
